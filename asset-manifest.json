@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/open-mic-static-client/static/css/main.3f35aacd.chunk.css",
+    "main.js": "/open-mic-static-client/static/js/main.dcbf99da.chunk.js",
+    "main.js.map": "/open-mic-static-client/static/js/main.dcbf99da.chunk.js.map",
+    "runtime-main.js": "/open-mic-static-client/static/js/runtime-main.1ee0386f.js",
+    "runtime-main.js.map": "/open-mic-static-client/static/js/runtime-main.1ee0386f.js.map",
+    "static/js/2.42628028.chunk.js": "/open-mic-static-client/static/js/2.42628028.chunk.js",
+    "static/js/2.42628028.chunk.js.map": "/open-mic-static-client/static/js/2.42628028.chunk.js.map",
+    "index.html": "/open-mic-static-client/index.html",
+    "precache-manifest.749ab7f79a254e86c091bb036dbd8ac4.js": "/open-mic-static-client/precache-manifest.749ab7f79a254e86c091bb036dbd8ac4.js",
+    "service-worker.js": "/open-mic-static-client/service-worker.js",
+    "static/css/main.3f35aacd.chunk.css.map": "/open-mic-static-client/static/css/main.3f35aacd.chunk.css.map",
+    "static/js/2.42628028.chunk.js.LICENSE.txt": "/open-mic-static-client/static/js/2.42628028.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ee0386f.js",
+    "static/js/2.42628028.chunk.js",
+    "static/css/main.3f35aacd.chunk.css",
+    "static/js/main.dcbf99da.chunk.js"
+  ]
+}
